@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: sanitation-hub
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3088208
+bundleId: 4014940
+url: https://sanitation-hub.shinyapps.io/shiny/
+when: 1608553307.10319
